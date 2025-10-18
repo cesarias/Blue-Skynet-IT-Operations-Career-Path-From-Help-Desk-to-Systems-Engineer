@@ -6,7 +6,7 @@
 ![Alex Ramirez studying late at night before joining Blue Skynet]
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
+<img width="600" alt= "image" src="https://i.imgur.com/QKGbxgh.jpeg">
 
 
 
@@ -60,7 +60,7 @@ And that’s when things changed.
 ![Alex Ramirez interviewing for the Help Desk position at Blue Skynet]
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
+<img width="600" alt= "image" src="https://i.imgur.com/QKGbxgh.jpeg">
 
 
 
@@ -169,7 +169,7 @@ Each tier includes:
 ## 🧩 Tier 1: Help Desk Technician — “The First Week at Blue Skynet”
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
+<img width="600" alt= "image" src="https://i.imgur.com/jpYyiAX.jpeg">
 
 
 **Scenario:**  
@@ -203,7 +203,7 @@ User support • Documentation • Ticket workflow • Customer service
 ## ⚙️ Tier 2: Desktop Support / Systems Support — “The Escalation Specialist”
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
+<img width="600" alt= "image" src="https://i.imgur.com/uCOSAt3.jpeg">
 
 
 **Scenario:**  
@@ -239,7 +239,7 @@ Automation • MDM • System imaging • Advanced troubleshooting
 Alex now oversees server maintenance, backups, and security patching for Blue Skynet’s production environment.
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
+<img width="600" alt= "image" src="https://i.imgur.com/42z40DC.jpeg">
 
 
 
@@ -270,7 +270,7 @@ Server administration • User access control • Patching • Backup strategy
 ## ☁️ Tier 4: Systems Engineer — “Modernizing Blue Skynet”
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/1V5ohep.png">
+<img width="600" alt= "image" src="https://i.imgur.com/yFUoSPY.jpeg">
 
 
 
