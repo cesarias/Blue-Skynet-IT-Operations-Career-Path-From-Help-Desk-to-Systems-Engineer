@@ -3,7 +3,7 @@
 ## 🏁 Prologue: The Journey Before Day One  
 *A Blue Skynet Prequel — The Story Before the Badge*
 
-![Alex Ramirez studying late at night before joining Blue Skynet]
+Alex Ramirez studying late at night before joining Blue Skynet
 
 
 <img width="600" alt= "image" src="https://i.imgur.com/QKGbxgh.jpeg">
@@ -57,7 +57,7 @@ And that’s when things changed.
 
 ### 💼 The Breakthrough Interview
 
-![Alex Ramirez interviewing for the Help Desk position at Blue Skynet]
+Alex Ramirez interviewing for the Help Desk position at Blue Skynet
 
 
 <img width="600" alt= "image" src="https://i.imgur.com/JeMvTOw.jpeg">
