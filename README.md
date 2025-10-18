@@ -43,7 +43,7 @@ This approach became Alex’s formula — not just for troubleshooting, but for 
 ### 📘 The Hard Truth Before the Breakthrough
 
 Before Blue Skynet, Alex faced months of silence.  
-He sent out over 40 applications.  
+He sent out hundreds of applications.  
 He heard back from maybe three.  
 He got rejected twice.  
 But instead of stopping, he asked: *“What do I need to learn next?”*
