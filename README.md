@@ -60,7 +60,7 @@ And that’s when things changed.
 ![Alex Ramirez interviewing for the Help Desk position at Blue Skynet]
 
 
-<img width="600" alt= "image" src="https://i.imgur.com/QKGbxgh.jpeg">
+<img width="600" alt= "image" src="https://i.imgur.com/JeMvTOw.jpeg">
 
 
 
